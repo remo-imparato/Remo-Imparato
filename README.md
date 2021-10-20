@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RemoImparato/RemoImparato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👋 Hi, I’m @remoimparato
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Linux, Java
 - 👯 I’m looking to collaborate on interesting open source projects that try to make the web a better place.
@@ -13,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by email
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: ...
+
+<!--
+**RemoImparato/RemoImparato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
