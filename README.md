@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @remoimparato
+- 👋 Hi, I’m @remo-imparato
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Linux, Java
 - 👯 I’m looking to collaborate on interesting open source projects that try to make the web a better place.
