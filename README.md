@@ -1,71 +1,87 @@
-# Hi there, I'm Remo Imparato 👋
+# **Remo Imparato**  
+### **Software Engineering Manager · .NET Developer · Builder of Useful Things**
 
-## 🚀 Software Engineering Manager | .NET Developer | Systems Thinker
+I’m Remo — a systems thinker, lifelong engineer, and someone who genuinely enjoys building things that make life smoother. By day I lead engineering teams and architect enterprise systems. Outside of work, I dive into personal projects that blend creativity, automation, music, organization, and a little bit of spice.
 
-I'm a Software Engineering Manager who still loves rolling up my sleeves and writing clean, maintainable code. I build practical tools, automations, and clever workflows that make life smoother — whether it's software, scripting, or scaling up my side venture, Remo’s Rub.
-
-My daily toolkit revolves around the Microsoft ecosystem with a strong focus on **C#, ASP.NET, JavaScript, HTML, CSS, and MSSQL**. I care deeply about code quality, developer experience, and building solutions that scale.  
+My GitHub is where I experiment, refine ideas, and build tools that solve real problems in my world — whether that’s smarter music discovery, cleaner workflows, or organizing the chaos of home projects.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ **Personal Engineering Identity**
+- I like **clean, maintainable code** that ages well.  
+- I build **practical tools** that solve real problems.  
+- I prefer **clarity over cleverness**, and automation wherever possible.  
+- I enjoy designing systems that feel *smooth*, *predictable*, and *delightful*.  
+- I’m happiest when I’m building something that didn’t exist yesterday.
 
-### **Core Languages & Frameworks**
-- **C# / .NET** (ASP.NET Core, MVC, Web API)
-- **JavaScript**, **HTML5**, **CSS3**
-- **MSSQL** (schema design, stored procedures, performance tuning)
+---
 
-### **Platforms & Tools**
-- Visual Studio / VS Code  
-- GitHub / Git  
-- Azure DevOps  
-- Docker (as needed)  
+## 🧩 **Independent Projects**
+
+### **MatchMonkey — MediaMonkey Recommendation Engine**  
+*JavaScript · SQLite · Last.fm API · ReccoBeats API*  
+A modular MediaMonkey extension that generates smart playlists using artist, genre, mood, and activity-based recommendations.  
+Key features:  
+- Ranked discovery logic across multiple APIs  
+- SQLite-backed caching and fuzzy library matching  
+- Deduplication + local-track mapping  
+- Configurable UI controls and playback automation  
+
+---
+
+### **Remo’s Rub — Hobby Automation & Labeling Tools**  
+*Excel · PowerShell · Workflow Automation*  
+Remo’s Rub is a personal hobby — a spice blend I make for friends, family, and fun.  
+To support it, I built small tools that keep the process organized:  
+- A **label-generation workflow** for consistent packaging  
+- A **spice spreadsheet** for batch tracking, ingredient ratios, and inventory  
+- Small automations that make the hobby feel more like a polished craft  
+
+No storefront, no business — just a passion project supported by good engineering.
+
+---
+
+### **Home & Personal Workflow Tools**  
+A collection of small utilities I’ve built over time:  
+- Synology-based automation scripts  
+- Media organization tools (MM5 JScript + SQL)  
+- Logging and diagnostic helpers  
+- UI micro-components and personal productivity scripts  
+
+These aren’t products — they’re the things I build because I can’t resist improving the systems around me.
+
+---
+
+## 🛠️ **Tech I Enjoy Working With**
+- **C# / .NET** (ASP.NET Core, MVC, Web API, WPF)  
+- **JavaScript** (vanilla, ClearScript V8, MM5 scripting)  
+- **SQL Server & SQLite**  
+- HTML5, CSS3  
+- GitHub, GitLab, Jenkins  
+- Docker (when it earns its keep)  
 - Synology DSM  
-- MediaMonkey scripting (MM5 JScript)  
-- Excel for workflow automation and data organization  
+- Excel (yes, really — it’s a great prototyping tool)
 
 ---
 
-## 🧭 Leadership & Interests
-- Managing and mentoring engineering teams  
-- Improving code quality and structure  
-- Streamlining CI/CD and development workflows  
-- Building reliable, maintainable back-end systems  
-- Architecting modern web apps  
-- Designing smarter home and tech workflows that “just work”  
-- Crafting clever branding and product design (yes, including spices)
-
----
-
-## 🌱 What I'm Working On
-- Strengthening engineering processes  
-- Enhancing .NET application performance  
-- Advocating for readability and maintainability  
-- Keeping the codebase modern without trendy complexity  
-- Building clean, reliable MediaMonkey add-ons  
-- Scaling Remo’s Rub with professional packaging and compliance  
-- Streamlining donation and support options for my software  
-
----
-
-## ☕ Support My Work
-If my tools, scripts, or ideas have helped you, consider supporting the projects.  
-Your support keeps development moving and fuels new creations.
-
-👉 **Ko‑fi:** https://ko-fi.com/remoimparato  
-👉 **Stripe / Donation Page:** *add link here*
-
----
-
-## 📫 Connect With Me
-- 🔗 https://www.linkedin.com/in/remo-imparato/ 
-- ✉️ *Add preferred contact (optional)*  
-
----
-
-## 🧩 Fun Dev Beliefs
+## 🎨 **Personal Principles**
 - Clean code > clever code  
-- Tabs are superior (fight me 😄)  
-- LINQ is optional — clarity is not  
 - Good naming prevents bugs  
 - Automation is happiness  
+- Reliability is a feature  
+- Tools should feel invisible  
+- Build things that make life better  
+
+---
+
+## ☕ **Support My Work**
+If my tools or projects have helped you:  
+**Ko‑fi:** [https://ko-fi.com/remoimparato](https://ko-fi.com/remoimparato)  
+**Stripe:** *coming soon*  
+
+---
+
+## 📫 **Connect**
+- **LinkedIn:** [https://www.linkedin.com/in/remo-imparato/](https://www.linkedin.com/in/remo-imparato/)  
+- **Email:** rimparato@gmail.com  
+- **MatchMonkey:** MediaMonkey Add-on [https://www.mediamonkey.com/addons/browse/item/match-monkey/](https://www.mediamonkey.com/addons/browse/item/match-monkey/)
